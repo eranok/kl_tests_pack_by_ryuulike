@@ -7,3 +7,5 @@ Consider to donate for a coffee to:
   - Card: 5168 7559 0328 6876  
 
 Have a nice day :)
+
+[LICENSE](https://github.com/eranok/kl_tests_pack_by_ryuulike/blob/main/LICENSE)
